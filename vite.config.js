@@ -1,4 +1,4 @@
 export default {
   // config options
-  base: "/sphere",
+  base: "https://michalis-mel.github.io/Sphere/",
 };
